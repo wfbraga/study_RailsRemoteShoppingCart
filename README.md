@@ -2,31 +2,20 @@
 
 # README
 
-This project shows how to build the foundation of any ecommerce in Rails:
-A Shopping Card.
+Esse projeto mostra os principios de como fazer um carrinho de compras.
+
+Essa tecnica se baseia usar a propriedade 'remote' nos links para fazer as req.
+
+Fique a vontade para clonar este repo e estudar o codigo.
+
+O tutorial foi original voce encontra no canal CodeCampBase. Contem alguns erros que
+nesse ja' foram solucionados nesse codigo.
+
+O tutorial original esta aqui: #https://youtu.be/rPmlA_T_J84
 
 
-
-
-Feel free to clone this repo to learn from it. 
-
-
-If you prefer Tutorials, check out my Channel: 
-
-
-#https://youtu.be/rPmlA_T_J84
-
-
-Almost all code was taken by HappyCoding's tutorial series on YouTube, but with
-a few improvements and more explanation. 
-
-
-
-
-
-
-* Clone this repo
+* Clone o repo
 * bundle install
 * rails s
-* head over to localhost:3000/products to create new products
-* localhost:3000 to view the main page
+* Va para localhost:3000/products para criar novos produtos
+* localhost:3000 para a pagina inicial
